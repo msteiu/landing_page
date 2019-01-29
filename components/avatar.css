@@ -1,0 +1,18 @@
+.avatar{
+	background-color: black;
+	display:flex;
+	align-items: center;
+	justify-content: space-between;
+}
+
+.avatar img{
+	width: 200px;
+	height:150px;
+}
+
+.avatar h3{
+	color: black;
+	background: white;
+	padding: 0px 10px 0px 10px;
+}
+}
