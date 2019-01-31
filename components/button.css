@@ -1,18 +1,14 @@
 .button{
-	background-color: black;
-	font-size:30px;
-	padding-top:20px;
-	padding-bottom: 20px;
+	background-color: white;
+	opacity: 0.8;
+	font-size:20px;
+	padding-top:15px;
+	padding-bottom: 10px;
 	padding-right:10px;
 	padding-left:10px;
 	border-radius: 10px;
-	color: white;
+	color: black;
 	font-weight: bold;
 	font-family: 'Bangers', sans-serif; 
-	object-position: center;
-	margin-bottom: 210px;
 }
 
-.centerbutton{
-	text-align: center;
-}
